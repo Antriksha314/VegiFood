@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248395591644",
+    "project_id": "carbide-pilot-244907",
+    "storage_bucket": "carbide-pilot-244907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248395591644:android:24409bfc63b4026e022919",
+        "android_client_info": {
+          "package_name": "com.example.demoo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248395591644-1ijoo3vstg9k8oaam3ch5p3m17c0540q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5_fvdaXrByJkhroqbBaUFLjsQXDSy5DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248395591644-1ijoo3vstg9k8oaam3ch5p3m17c0540q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

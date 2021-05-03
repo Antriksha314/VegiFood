@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939813000641",
+    "project_id": "demooo-c4fdb",
+    "storage_bucket": "demooo-c4fdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939813000641:android:49bcf3eb4e85392ee14b40",
+        "android_client_info": {
+          "package_name": "com.example.demoo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939813000641-egk02qtmbldr55jsfpecaptke5f8prs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNiHdcNTrJSd1Xde9yFIPwRoZ3FRdhyEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939813000641-egk02qtmbldr55jsfpecaptke5f8prs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
