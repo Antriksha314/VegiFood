@@ -9,9 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Demoo1">
-        <activity android:name=".signup"></activity>
-        <activity android:name=".home" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".signup_page"></activity>
+        <activity android:name=".loginpage">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
